@@ -1,0 +1,32 @@
+Hello! People This game is not the one I was actually working on, There might be a lot of bugs in this game but still it was worth a shot, Now lets talk more about the game:
+                                         This game is actually based on dungeons and dragons and just as a disclaimer I haven't written its story its completely copied from another creator so please don't come at me saying "You Cheat!" cause I am just a beginner I have the right to learn from other projects, but I can gurantee you that the next game's story will be my orignal.
+                                         
+                                         
+Running The Game:
+
+--------------------------------
+Windows:
+Install any python IDE from internet on python's orignal website
+Make sure to install pyhton 3.2 or above
+Open the Game.py file in the installed IDE
+Done!
+--------------------------------
+MacOS:
+Open your terminal
+change your directory to the given folder
+execute the command:- python3 Game.py
+Done!
+--------------------------------
+Same goes for Linux (Any Distro)
+--------------------------------
+Android:
+Download python IDE from playstore
+Open the file
+Done!
+--------------------------------
+Same for Apple users
+--------------------------------
+
+So that was it..
+Signing Out 
+Tushin K.
